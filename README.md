@@ -135,7 +135,7 @@ Each dataset was processed using all four frameworks (Pandas, PySpark, Polars, a
 ## Visualization
 The results were visualized using **Briefer**, enabling easy comparison of runtimes and file sizes. Visualizations are hosted in the `briefer_uploads/` directory and can be directly opened within the Briefer tool.
 
-Link do dashboard final: https://app.briefer.cloud/workspaces/d4753686-00bf-4cad-8143-67d25b274137/documents/4d040038-51dc-4f94-b83c-e825b7b879e2/dashboard
+Final dashboard link: https://app.briefer.cloud/workspaces/d4753686-00bf-4cad-8143-67d25b274137/documents/4d040038-51dc-4f94-b83c-e825b7b879e2/dashboard
 
 ---
 
