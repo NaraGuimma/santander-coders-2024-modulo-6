@@ -96,7 +96,8 @@ This project demonstrates a comparative analysis of ETL (Extract, Transform, Loa
 │   ├── pyspark_etl.ipynb    # ETL pipeline with PySpark
 │   ├── polars_etl.ipynb     # ETL pipeline with Polars
 │   ├── pyarrow_etl.ipynb    # ETL pipeline with PyArrow
-├── results/                 # Notebook for Briefer
+├── results/                 # ETL timing and file size results
+├── briefer.ipynb/           # Visualization notebook for Briefer
 └── README.md                # Project documentation
 ```
 
